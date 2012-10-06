@@ -1,7 +1,7 @@
 #Sample Installation
 
 ####Saving the current file with the cookie exceptions:
-	  cp .mozilla/firefox/*.default/permissions.sqlite .
+    cp .mozilla/firefox/*.default/permissions.sqlite .
 
 ####Saving the current cookies:
     cp .mozilla/firefox/*.default/cookies.sqlite .

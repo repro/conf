@@ -25,3 +25,6 @@
 ####Restoring cookies and cookies exception files
     cp permissions.sqlite .mozilla/firefox/*.default/
     cp cookies.sqlite .mozilla/firefox/*.default/
+
+####Start Profile Manager
+	firefox -ProfileManager
